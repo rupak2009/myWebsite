@@ -155,7 +155,7 @@ footer{
 main > section > article > h3{
 }
 main > section > article > p{
-	float :right;
+	float :center;
 }
 
 
